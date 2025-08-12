@@ -9,7 +9,7 @@
 		<io.github.openfeign.feign-okhttp.version>13.2.1</io.github.openfeign.feign-okhttp.version>
 		<liquibase.core.version>4.27.0</liquibase.core.version>
 		<audit-lib.version>40.3.0.24</audit-lib.version>
-		<log4j2-integration.version>1.6.162</log4j2-integration.version>
+		<log4j2-integration.version>1.7.11</log4j2-integration.version>
 		<log4j2.version>2.19.0</log4j2.version>
 		<versionfile>${project.basedir}/version.properties</versionfile>
 		<msgdoul.service.info.version>0.0.4</msgdoul.service.info.version>
